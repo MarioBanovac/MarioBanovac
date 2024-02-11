@@ -1,4 +1,16 @@
-### Hi there 👋
+## TECHNOLOGIES
+Typescript / Node / React / React Native / CSS / Jest
+
+## Other stuff
+- TDD
+- Content creation on LinkedIn
+
+
+
+## Personal interest outside coding
+- Street workout
+- Football
+  
 
 <!--
 **MarioBanovac/MarioBanovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
